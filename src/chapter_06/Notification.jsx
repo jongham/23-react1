@@ -44,3 +44,4 @@ class Notification extends React.Component{
         console.log(`${this.props.id} this.componentDidMount() called.`);
     }
 }
+export default Notification;
